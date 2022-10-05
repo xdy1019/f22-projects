@@ -1,7 +1,7 @@
 # F22-Projects
 
 
-##Every time you want to contribute upstream
+## Every time you want to contribute upstream
 
 Do This:
 
@@ -19,9 +19,8 @@ git commit --signoff -m "this is my new contribution"
 git push origin my-new-branch
 
 # Then go to GH, open a PR against upstream/main
-# Tag someone to review! 
 ```
-##Every time you want to update your working branch until it's merged
+## Every time you want to update your working branch until it's merged
 
 Do This:
 
