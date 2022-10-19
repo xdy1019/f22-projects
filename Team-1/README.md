@@ -8,4 +8,10 @@ From branch main (or whatever branch you want to update from):
 4. Push changes to your repo
 ```sh git push origin main```
 5. From typescript-nodejs/
-```sh npm install```
+```sh 
+{
+npm init -y
+npm install
+npm ts-node index.ts
+}
+```
